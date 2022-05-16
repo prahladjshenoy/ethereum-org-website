@@ -1,4 +1,13 @@
 [
+   {
+    "title": "ETHSeoul",
+    "to": "https://2022.ethseoul.org/",
+    "sponsor": null,
+    "location": "Seoul, Korea",
+    "description": "ETHSeoul is a 4-day hackathon for builders based in Seoul, Korea.",
+    "startDate": "2022-09-05",
+    "endDate": "2022-09-09"
+  },
   {
     "title": "ETHDenver",
     "to": "https://www.ethdenver.com/",
