@@ -7434,6 +7434,24 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "stoobie",
+      "name": "Steve Goodman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39279277?v=4",
+      "profile": "https://github.com/stoobie",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "booklearner",
+      "name": "booklearner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103979114?v=4",
+      "profile": "http://booklearner.org",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
